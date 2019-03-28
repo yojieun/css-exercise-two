@@ -1,6 +1,34 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #E7EFF2;
+  color: #023196;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover { color:#C9C9C9; } /* mouse over */
+
+
+h1 {
+  font-size: 2.5em;
+  line-height: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: normal;
+}
+
+figcaption {
+  font-size: 80%;
+}
+
+.author{
+  font-size: 80%;
+  line-height: 3em;
 }
 
 nav {
@@ -49,4 +77,8 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+.story-text {
+  line-height: 1.2em;
 }

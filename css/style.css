@@ -9,7 +9,7 @@ a {
   color: #ffffff;
 }
 
-a:hover { color:#C9C9C9; } /* mouse over */
+a:hover { color:#023196; } /* mouse over */
 
 
 h1 {
@@ -80,5 +80,5 @@ article {
 }
 
 .story-text {
-  line-height: 1.2em;
+  line-height: 1.5em;
 }

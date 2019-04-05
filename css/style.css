@@ -22,6 +22,10 @@ h3 {
   line-height: normal;
 }
 
+.story-text p {
+  margin-bottom: 15px;
+}
+
 figcaption {
   font-size: 80%;
 }
@@ -29,6 +33,7 @@ figcaption {
 .author{
   font-size: 80%;
   line-height: 3em;
+  margin-bottom: 10px;
 }
 
 nav {
